@@ -1,0 +1,17 @@
+*{
+    background-color: silver;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.rebeca{
+    margin-left: 7px;
+    color: darkblue;
+}
+p{
+    text-align: center;
+    /* width: 1000px; */
+}
+img{
+    border-radius: 40px;
+    /* margin-left: 96px; */
+}
